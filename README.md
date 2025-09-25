@@ -2,7 +2,7 @@
 * Name: Ademjiu Oluwatosin
 * Project title: Hotel Analytics Dashboard
 * File name: Guided_project_tosin_pbix
-# Repository name 
+## Repository name 
 Guided_project_tosin_repository
 # Tools Used: 
 Power BI Desktop
